@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "28855864302",
+    "firebase_url": "https://harfa-47425.firebaseio.com",
+    "project_id": "harfa-47425",
+    "storage_bucket": "harfa-47425.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28855864302:android:bb7496e3b0a25c3b",
+        "android_client_info": {
+          "package_name": "com.harfa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28855864302-d64sdca1o28dr5fsvmvgvhudflqvc24b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harfa",
+            "certificate_hash": "7c2c9e068239fd0c5d286e9c0d24d1d7d00176b3"
+          }
+        },
+        {
+          "client_id": "28855864302-ca98q1nrtjni3nco23khg20gv8oc12gi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harfa",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "28855864302-s55uf41rb7srqiaj89qshbtk630ensno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2WXgeleJC1uqaoQ648AUBgK-W5rwuydw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28855864302-s55uf41rb7srqiaj89qshbtk630ensno.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "28855864302-r0eqbqmu71n3h1a217edg4kmqbd3ejmn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abc.Harfa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

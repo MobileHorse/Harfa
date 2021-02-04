@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>28855864302-lu8ebvta5j4aak7g8lmtqkb6vmnj10d7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.28855864302-lu8ebvta5j4aak7g8lmtqkb6vmnj10d7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>28855864302-fmr4s2i29gsg23q0g6lsl2nhm2rdssdd.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC4T9vc-G_0zlQHslR1VLSHrJgSdV2z9bQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>28855864302</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.Harfa</string>
+	<key>PROJECT_ID</key>
+	<string>harfa-47425</string>
+	<key>STORAGE_BUCKET</key>
+	<string>harfa-47425.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:28855864302:ios:dd468c6f13ac225f6d5cff</string>
+	<key>DATABASE_URL</key>
+	<string>https://harfa-47425.firebaseio.com</string>
+</dict>
+</plist>
